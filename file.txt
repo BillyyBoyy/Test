@@ -9,5 +9,3 @@ funcion()
 prueba de sonido
 
 prueba para pull
-
-prueba para pull request
