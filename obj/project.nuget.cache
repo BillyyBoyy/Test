@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+On+vCnS/BKbIxwh95bSJS0cU/4cODV8s1SAd+4Wsu5WfrGI3V0sKCC0owLtYZhQc9VJPrhaR2MmZY4eECl/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Proyectos TEC\\Disenno de Software\\ProyectoDiseno\\EFood.Utilidades\\EFood.Utilidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alfar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\alfar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

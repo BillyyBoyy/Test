@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EFood.Utilidades/1.0.0": {
+        "runtime": {
+          "EFood.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EFood.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

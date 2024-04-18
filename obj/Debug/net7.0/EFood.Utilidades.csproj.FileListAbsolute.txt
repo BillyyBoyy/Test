@@ -1,0 +1,36 @@
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\bin\Debug\net7.0\EFood.Utilidades.deps.json
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\bin\Debug\net7.0\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\bin\Debug\net7.0\EFood.Utilidades.pdb
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.AssemblyInfoInputs.cache
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.AssemblyInfo.cs
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.csproj.CoreCompileInputs.cache
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.sourcelink.json
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\EFood.Utilidades.pdb
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\bin\Debug\net7.0\EFood.Utilidades.deps.json
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\bin\Debug\net7.0\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\bin\Debug\net7.0\EFood.Utilidades.pdb
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.AssemblyInfoInputs.cache
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.AssemblyInfo.cs
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.csproj.CoreCompileInputs.cache
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.sourcelink.json
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\refint\EFood.Utilidades.dll
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.pdb
+C:\WorkSpace\git\IS 2024\diseño\proyecto\Proyecto1\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\ref\EFood.Utilidades.dll
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\bin\Debug\net7.0\EFood.Utilidades.deps.json
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\bin\Debug\net7.0\EFood.Utilidades.dll
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\bin\Debug\net7.0\EFood.Utilidades.pdb
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.AssemblyInfoInputs.cache
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.AssemblyInfo.cs
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.sourcelink.json
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.dll
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\refint\EFood.Utilidades.dll
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\EFood.Utilidades.pdb
+C:\Proyectos\Proyectos TEC\Disenno de Software\ProyectoDiseno\EFood.Utilidades\obj\Debug\net7.0\ref\EFood.Utilidades.dll
